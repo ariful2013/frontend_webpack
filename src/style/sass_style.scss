@@ -1,0 +1,11 @@
+@import './sass/bootstrap.scss';
+@import './sass/fontawesome.scss';
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: $light;
+  color: $secondary;
+}

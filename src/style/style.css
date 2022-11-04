@@ -1,0 +1,11 @@
+@import 'fonts.css';
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.para {
+  font-family: 'robotoblack_italic';
+  font-size: 1.2rem;
+}
